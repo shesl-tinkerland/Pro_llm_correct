@@ -2,6 +2,8 @@
 
 > 上传手写英文作文 → 自动识别文本 → 按高考标准打分 → 输出详尽反馈报告，全流程在本地浏览器完成。
 
+[![试用 高考英语作文批改 on Socialistic](https://socialistic.ai/api/embed/gaokao-essay-grader-24d433?lang=zh)](https://socialistic.ai/zh/skill/gaokao-essay-grader-24d433?utm_source=github&utm_medium=readme&utm_campaign=20260601-essay-grader-toolsmiths&utm_content=badge)
+
 ![Web UI 批改页面](photo/1.png)
 ![Web UI 设置页面](photo/2.png)
 ![Web UI 关于页面](photo/3.png)
